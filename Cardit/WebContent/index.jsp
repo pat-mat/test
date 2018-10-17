@@ -13,6 +13,6 @@
 		<input type = "password" name = "userPassword">
 		<input type = "submit" value = "회원가입">
 	</form>
-hiuuhi
+hiuuhisfsfsfe
 </body>
 </html>
